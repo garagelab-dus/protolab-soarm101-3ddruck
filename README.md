@@ -3,7 +3,7 @@ Dateien für den 3D-Druck des SO-Arm101 im protolab
 
 Dateiname | Arm |Ansicht |Anzahl | gedruckt |
 |---|---|---|---|---|
-mount_helper v2.stl | Universell |![mount helper](/docs/assets/mount_helper_black.png) [🔧 3D file](./3Ddruck/bicolored/mount_helper%20v2.stl)| 1| ✅
+mount_helper v2.stl | Universell |![mount helper][mount_helper-image] [🔧 3D file][mount_helper-3D]| 1| ✅
 Base_motor_holder_SO101.stl|Universell|![](/docs/assets/Base_motor_holder_SO101_black.png) [🔧 3D file](./3Ddruck/bicolored/Base_motor_holder_SO101.stl)|2| ✅ schwarz <br> ✅ orange
 Base_SO101.stl|Universell|![](/docs/assets/Base_SO101_black.png) [🔧 3D file](./3Ddruck/bicolored/Base_SO101.stl)|2|✅ schwarz <br> ✅ orange
 Motor_holder_SO101_Base.stl|Universell|![](/docs/assets/Motor_holder_SO101_Base_black.png) [🔧 3D file](./3Ddruck/bicolored/Motor_holder_SO101_Base.stl)|2|✅ schwarz <br> ✅ orange
@@ -28,3 +28,6 @@ Die STL-Datein sind farblich neu zusammengestellte Kopien aus dem origin SO-Arm1
 https://github.com/garagelab-dus/protolab-soarm101-3ddruck/blob/main/README.md  
 
 -->
+
+[mount_helper-image]: /docs/assets/mount_helper_black.png
+[mount_helper-3D]: ./3Ddruck/bicolored/mount_helper%20v2.stl
