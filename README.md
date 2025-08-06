@@ -1,5 +1,12 @@
 # protolab-soarm101-3ddruck
-Dateien für den 3D-Druck des SO-Arm101 im protolab
+
+## Kontruktionszeichnung
+
+Der Follower-Arm `Ernie`
+
+![Skizze][konstruktionsskizze]
+
+## Dateien für den 3D-Druck des SO-Arm101 im protolab
 
 Dateiname | Arm |Ansicht |Anzahl | gedruckt |
 |---|---|---|---|---|
@@ -29,5 +36,6 @@ https://github.com/garagelab-dus/protolab-soarm101-3ddruck/blob/main/README.md
 
 -->
 
+[konstruktionsskizze]: /docs/assets/Screenshot-20250803-200845.png
 [mount_helper-image]: /docs/assets/mount_helper_black.png
-[mount_helper-3D]: ./3Ddruck/bicolored/mount_helper%20v2.stl
+[mount_helper-3D]: /3Ddruck/bicolored/mount_helper%20v2.stl
