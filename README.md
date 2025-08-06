@@ -1,5 +1,7 @@
 # protolab-soarm101-3ddruck
 
+Wir folgen der Anleitung https://huggingface.co/docs/lerobot/so101
+
 ## Kontruktionszeichnung
 
 ```text
