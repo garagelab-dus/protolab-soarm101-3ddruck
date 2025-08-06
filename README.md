@@ -2,7 +2,14 @@
 
 ## Kontruktionszeichnung
 
-Der Follower-Arm `Ernie`
+```text
+ ___   ___   _  _   ___   ___
+| __| | _ \ | \| | |_ _| | __|
+| _|  |   / | .  |  | |  | _|
+|___| |_|_\ |_|\_| |___| |___|
+```
+
+Der Follower-Arm
 
 ![Skizze][konstruktionsskizze]
 
